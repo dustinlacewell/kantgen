@@ -1,4 +1,4 @@
-kantgen
-=======
+nagen
+=====
 
-A recursive template-grammar library for Python for procedurally generated text
+A recursive template-grammar for generating No Agenda-like headlines and domain names
